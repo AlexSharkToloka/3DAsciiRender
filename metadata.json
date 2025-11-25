@@ -1,0 +1,5 @@
+{
+  "name": "ASCII 3D Viewer",
+  "description": "A retro-futuristic 3D model viewer that renders GLTF models using real-time ASCII character mapping.",
+  "requestFramePermissions": []
+}
